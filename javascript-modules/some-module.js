@@ -1,3 +1,1 @@
-const message = 'Hello, module world!';
-
-export { message };
+export const message = 'Hello, module world!';
